@@ -1,4 +1,4 @@
-# DR_C
+# DR_s
 AI Based Health Application + connect Local Dignosis center and doctor
 
 if you mean “How many types of users/roles should this HealthLink project have?”, I recommend 5 main user types:
